@@ -1,0 +1,352 @@
+* {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial,'Century Gothic', 'Roboto',sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.main-logo-pic, .inner-logo-pic {
+    float: left;
+    filter: hue-rotate(138deg);
+}
+
+.innerlogoh1 {
+    display: none;
+}
+
+.inner-logo-pic {
+    display: none;
+}
+
+.auto-text p {
+    text-align: center;
+    margin-bottom: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #d8cccc;
+}
+
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #2d2d2d;
+}
+/* Header styling */
+header {
+    background-color: #0e0e0e;
+    color: #fff;
+    padding: 15px;
+    display: flex; /* Add this to make the header a flex container */
+    justify-content: space-between; /* Align items horizontally */
+    align-items: center; /* Center items vertically */
+}
+
+h2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    display: flex; /* Add this to make the navigation a flex container */
+}
+
+nav {
+    margin-left: auto;
+    padding-right: 30px;
+    height: 40px;
+}
+
+    nav li {
+        margin-left: 60px /* Change margin-left to margin-right */
+    }
+
+    nav a {
+        color: #fff;
+        font-size: 18px;
+        text-decoration: none;
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        /* Add position relative to contain pseudo-element */
+    }
+
+        /* Hover effect */
+        nav a::after {
+            content: "";
+            display: block;
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 0;
+            height: 3px;
+            background-color: #e74828;
+            transition: width 0.3s;
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+/* Auto slider styling */
+.auto-slider {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    padding: 50px;
+    height: 400px;
+    background: linear-gradient(to right, #02102c, #0d2c14);
+}
+
+.auto-text h2 {
+    flex: 1;
+    font-size: 40px;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    color: rgb(198, 186, 53);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.join-btn {
+    background-color: #e74828;
+    color: white;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    /* Add transition for smooth effect */
+}
+
+    /* Hover effect */
+    .join-btn:hover {
+        background-color: black;
+    }
+
+.btn {
+    display: inline-block;
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 30px 0;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(57, 57, 56);
+}
+
+.container {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-2 {
+    padding: 50px;
+    flex: 1;
+}
+
+.image-slider img.active {
+    opacity: 1;
+}
+
+/* Services section styling */
+.services {
+    padding: 50px;
+}
+
+.service-container {
+    display: flex;
+}
+
+.service-item {
+    position: relative;
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.left-image .service-img {
+    order: 1;
+    /* Place the image on the left side for this service item */
+    margin-right: 20px;
+}
+
+.right-image .service-img {
+    order: 2;
+    /* Place the image on the right side for this service item */
+    margin-left: 20px;
+}
+
+.service-image {
+    position: relative;
+}
+
+.service-img,
+.hover-img {
+    width: 400px;
+    /* Set the width of the service images */
+    height: 500px;
+    /* Set the height of the service images */
+    object-fit: cover;
+    transition: opacity 1s ease;
+}
+
+.hover-img {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.service-image:hover .hover-img {
+    display: block;
+    opacity: 1;
+    /* Show the hover image on hover */
+}
+
+.service-image:hover .service-img {
+    opacity: 0;
+    /* Hide the main service image during hover */
+}
+
+.service-text {
+    margin: 10px;
+}
+/* Client Reviews section styling */
+/* Add this CSS to your styles.css file */
+.client-reviews {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.review {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: calc(50% - 20px);
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.last-review {
+    margin-left: 360px;
+}
+
+.client-info {
+    display: flex;
+    align-items: center;
+}
+
+.client-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.client-name {
+    font-weight: bold;
+}
+
+.stars {
+    display: flex;
+    margin: 10px 0;
+}
+
+.fa-star {
+    color: rgb(255, 153, 0);
+    margin-right: 5px;
+}
+
+.review-text {
+    line-height: 1.6;
+}
+
+.nav-links {
+    z-index: 1
+}
+
+.footer {
+    background: #000;
+    color: #8a8a8a;
+    font-size: 15px;
+    padding: 60px 0 20px;
+}
+
+    .footer h3 {
+        color: #fff;
+        margin-bottom: 10px;
+    }
+
+    .footer p {
+        color: #8a8a8a;
+    }
+
+
+.fo-col-1,
+.fo-col-2,
+.fo-col-3 {
+    min-width: 333px;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+}
+
+.fo-col-2 {
+    padding-bottom: 20px;
+}
+
+.fo-col-1,
+.fo-col-3 {
+    padding-bottom: 45px;
+}
+
+.fo-col-2,
+.fo-col-3 {
+    flex-basis: 12%;
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.footer hr {
+    border: none;
+    background: radial-gradient(#e74828, #e74828);
+    height: 2px;
+    margin: 15px 0;
+    width: 100%;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.account-page {
+    padding: 50px 0;
+    background: radial-gradient(#ffffff, #faf5f5);
+}

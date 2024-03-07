@@ -1,0 +1,75 @@
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\appsettings.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\EAD Project.staticwebassets.runtime.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\EAD Project.exe
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\EAD Project.deps.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\EAD Project.runtimeconfig.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\EAD Project.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\EAD Project.pdb
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.csproj.AssemblyReference.cache
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.AssemblyInfoInputs.cache
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.AssemblyInfo.cs
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.csproj.CoreCompileInputs.cache
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.RazorAssemblyInfo.cache
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.RazorAssemblyInfo.cs
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets\msbuild.EAD Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets\msbuild.build.EAD Project.props
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EAD Project.props
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EAD Project.props
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\scopedcss\bundle\EAD Project.styles.css
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\scopedcss\projectbundle\EAD Project.bundle.scp.css
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.csproj.CopyComplete
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\refint\EAD Project.dll
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.pdb
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\EAD Project.genruntimeconfig.cache
+C:\Users\mugha\source\repos\EAD Project\EAD Project\obj\Debug\net8.0\ref\EAD Project.dll
